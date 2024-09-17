@@ -2,6 +2,6 @@ Master python
 cat enrichment
 brush teeth
 use face cream
-set alarms
-check trains
-
+complete day 19
+understand venv
+understand git commands
